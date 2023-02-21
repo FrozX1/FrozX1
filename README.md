@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm FrozX</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif")
 
 
 
